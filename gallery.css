@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+#picture{
+    margin-left: 30%;
+    position: relative;
+    border: 5px solid yellow;
+}
+#prev {
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 600px;
+    font-size: 40px;
+    background-color: yellow;
+}
+#next {
+    position: absolute;
+    margin-left: 1450px;
+    font-size: 40px;
+    background-color: yellow;
+}
+#myG {
+    color: aquamarine;
+    text-align: center;
+    margin-left: 50px;
+}
